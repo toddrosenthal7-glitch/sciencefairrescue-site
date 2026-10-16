@@ -1,0 +1,55 @@
+// Science Fair Rescue: zero-dependency static builder (flat layout). Usage: node build.js -> ./out
+const fs=require('fs'),path=require('path'),D=__dirname;
+const C=JSON.parse(fs.readFileSync(path.join(D,'config.json'),'utf8'));
+const P=JSON.parse(fs.readFileSync(path.join(D,'projects.json'),'utf8'));
+const out=path.join(D,'out');fs.rmSync(out,{recursive:true,force:true});fs.mkdirSync(out+'/projects',{recursive:true});
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const isPh=s=>/^PLACEHOLDER/.test(s||'');
+const amz=q=>`https://www.amazon.com/s?k=${encodeURIComponent(q)}&tag=${encodeURIComponent(C.amazonTag)}`;
+const GR={k2:'Grades K–2','35':'Grades 3–5','68':'Grades 6–8'},TM={'5min':'5 Minutes','1hour':'1 Hour',overnight:'Overnight'};
+const o=C.colors.orange,t=C.colors.teal,k=C.colors.dark;
+const css=`*{box-sizing:border-box}body{margin:0;font:18px/1.6 system-ui,-apple-system,Segoe UI,Arial,sans-serif;color:${k};background:#fffaf6}
+header{background:${t};color:#fff}header .in,main,footer .in{max-width:900px;margin:auto;padding:0 18px}
+header .in{display:flex;align-items:center;gap:14px;flex-wrap:wrap;padding:12px 18px}header img{width:54px;height:54px;border-radius:50%;background:#fff}
+.brand{font-size:1.4em;font-weight:800;color:#fff;text-decoration:none}nav{display:flex;gap:16px;flex-wrap:wrap;margin-left:auto}nav a{color:#fff;font-weight:700}
+h1{font-size:2.1em;line-height:1.15;margin:.6em 0 .3em}h2{color:${t};margin-top:1.4em}a{color:${t}}
+.hero{background:${o};color:#fff;padding:28px 0;margin-bottom:10px}.hero h1{margin:0}.hero a{color:#fff}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
+.card{background:#fff;border:3px solid ${t};border-radius:14px;padding:14px 16px}.card h3{margin:.2em 0}.card a{text-decoration:none;color:${k}}
+.tag{display:inline-block;background:${o};color:#fff;border-radius:99px;padding:2px 10px;font-size:.8em;font-weight:700;margin:2px 4px 2px 0;text-decoration:none}.tag.t{background:${t}}
+.box{background:#fff;border-left:8px solid ${o};padding:12px 16px;border-radius:8px;margin:14px 0}.safe{border-left-color:#c62828;background:#fff1f0}
+.btn{display:inline-block;background:${o};color:#fff;padding:12px 22px;border-radius:10px;font-weight:800;text-decoration:none}
+.signup{background:${t};color:#fff;border-radius:14px;padding:18px;margin:26px 0}.signup input{font-size:1em;padding:10px;border-radius:8px;border:0;width:100%;max-width:340px}
+.ph{background:#ffe0e0;color:#900;border:2px dashed #b00;padding:1px 6px}li{margin:6px 0}
+footer{background:${k};color:#ddd;margin-top:40px;padding:18px 0;font-size:.85em}footer a{color:#fff}`;
+const signup=r=>{const fa=C.newsletter.formAction,ph=isPh(fa);return `<div class="signup"><strong>Free: the Night-Before Checklist</strong><p>${esc(C.newsletter.pitch)}</p>${ph?`<p><span class="ph">${esc(fa)}</span> signup not connected yet</p>`:''}<form ${ph?'onsubmit="return false"':`method="post" action="${esc(fa)}"`}><input name="email" type="email" placeholder="Parent or student email" required> <button class="btn" type="submit">Send it</button></form></div>`};
+const page=(title,desc,body,r='')=>`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)} | ${esc(C.name)}</title><meta name="description" content="${esc(desc)}"><link rel="icon" href="${r}logo.png"><link rel="stylesheet" href="${r}style.css"></head><body>
+<header><div class="in"><a href="${r}index.html"><img src="${r}logo.png" alt="Science Fair Rescue logo"></a><a class="brand" href="${r}index.html">${esc(C.name)}</a><nav><a href="${r}index.html#grade">By Grade</a><a href="${r}index.html#time">By Time</a><a href="${r}supplies.html">Supplies</a><a href="${esc(C.youtubeChannelUrl)}">YouTube</a></nav></div></header>
+<main>${body}</main><footer><div class="in">${esc(C.name)}: ${esc(C.tagline)}. Always do experiments with an adult nearby.<br>${esc(C.affiliateDisclosure)}</div></footer></body></html>`;
+const tags=(p,r)=>p.grades.map(g=>`<a class="tag" href="${r}grade-${g}.html">${GR[g]}</a>`).join('')+`<a class="tag t" href="${r}time-${p.time}.html">${TM[p.time]}</a>`;
+const card=(p,r='')=>`<div class="card"><h3><a href="${r}projects/${p.slug}.html">${esc(p.title)}</a></h3><p>${esc(p.summary)}</p>${tags(p,r)}</div>`;
+const li=a=>a.map(x=>`<li>${esc(x)}</li>`).join('');
+for(const p of P){const buy=p.buy.map(([n,q])=>`<li><a href="${esc(amz(q))}" rel="sponsored nofollow" target="_blank">${esc(n)}</a></li>`).join('');
+ fs.writeFileSync(`${out}/projects/${p.slug}.html`,page(p.title,p.summary,`<h1>${esc(p.title)}</h1>${tags(p,'../')}<p><strong>${esc(p.summary)}</strong></p>
+<div class="box"><strong>Question:</strong> ${esc(p.question)}<br><strong>Hypothesis:</strong> ${esc(p.hypothesis)}</div>
+<div class="box safe"><strong>Safety:</strong> ${esc(p.safety)}</div>
+<h2>Supplies (mostly already in your kitchen)</h2><ul>${li(p.supplies)}</ul>
+<h2>Steps</h2><ol>${li(p.steps)}</ol><h2>The science, explained</h2><p>${esc(p.science)}</p>
+<h2>Board tips</h2><ul>${li(p.board)}</ul><p>Use our <a href="../board-layout.html">tri-fold board layout</a> to put it all together fast.</p>
+<h2>Missing something? Shop the supplies</h2><ul>${buy}</ul><p style="font-size:.85em">${esc(C.affiliateDisclosure)}</p>${signup('../')}`,'../'));}
+const idx=`<div class="hero"><div style="max-width:900px;margin:auto;padding:0 18px"><h1>Science fair tomorrow? We've got you.</h1><p>${P.length} safe, easy projects using stuff you already have, each with a hypothesis, steps, the science, and board tips. Pick by grade or by how much time you have left.</p><a class="btn" style="background:${t}" href="${esc(C.youtubeChannelUrl)}">▶ Watch on YouTube</a></div></div>
+<h2 id="time">How much time do you have?</h2><p>${Object.keys(TM).map(x=>`<a class="tag t" href="time-${x}.html">${TM[x]}</a>`).join('')}</p>
+<h2 id="grade">Pick your grade</h2><p>${Object.keys(GR).map(x=>`<a class="tag" href="grade-${x}.html">${GR[x]}</a>`).join('')}</p>
+${signup('')}<h2>All projects</h2><div class="grid">${P.map(p=>card(p)).join('')}</div>`;
+fs.writeFileSync(out+'/index.html',page('Last-Minute Science Fair Projects','Easy, safe science fair projects you can finish tonight, with hypothesis, steps, and board tips.',idx));
+const cat=(file,label,list)=>fs.writeFileSync(`${out}/${file}`,page(`${label} Science Fair Projects`,`Easy last-minute science fair projects: ${label}.`,`<h1>${esc(label)} Science Fair Projects</h1><div class="grid">${list.map(p=>card(p)).join('')}</div>${signup('')}`));
+for(const g in GR)cat(`grade-${g}.html`,GR[g],P.filter(p=>p.grades.includes(g)));
+for(const x in TM)cat(`time-${x}.html`,TM[x],P.filter(p=>p.time===x));
+const all=[...new Map(P.flatMap(p=>p.buy).map(b=>[b[0],b])).values()];
+fs.writeFileSync(out+'/supplies.html',page('Science Fair Supply List','Everything you might need for a last-minute science fair project.',`<h1>Last-Minute Supply List</h1><p>${esc(C.affiliateDisclosure)}</p><div class="box"><strong>Don't forget the board:</strong> <a href="${esc(amz('trifold poster board science fair'))}" rel="sponsored nofollow">Tri-fold display boards</a> · <a href="${esc(amz('science fair board letters headers'))}" rel="sponsored nofollow">Board header letters</a> · <a href="${esc(amz('glue sticks bulk'))}" rel="sponsored nofollow">Glue sticks</a></div><ul>${all.map(([n,q])=>`<li><a href="${esc(amz(q))}" rel="sponsored nofollow">${esc(n)}</a></li>`).join('')}</ul>`));
+fs.writeFileSync(out+'/board-layout.html',page('How to Lay Out a Tri-Fold Board','The standard science fair tri-fold board layout.',`<h1>How to Lay Out Your Tri-Fold Board</h1><div class="grid"><div class="card"><h3>Left panel</h3><ul><li>Question</li><li>Hypothesis</li><li>Background research</li></ul></div><div class="card"><h3>Middle panel</h3><ul><li>Big title on top</li><li>Data: charts and tables</li><li>Photos of the experiment</li></ul></div><div class="card"><h3>Right panel</h3><ul><li>Materials and procedure</li><li>Results</li><li>Conclusion</li></ul></div></div><p>Tip: Print headings in large letters, and check your teacher's rubric first. Requirements vary by school.</p>${signup('')}`));
+fs.copyFileSync(path.join(D,'logo.png'),out+'/logo.png');fs.writeFileSync(out+'/style.css',css);
+const urls=['index.html','supplies.html','board-layout.html',...Object.keys(GR).map(g=>`grade-${g}.html`),...Object.keys(TM).map(x=>`time-${x}.html`),...P.map(p=>`projects/${p.slug}.html`)];
+fs.writeFileSync(out+'/sitemap.txt',urls.map(u=>isPh(C.siteUrl)?u:C.siteUrl.replace(/\/$/,'')+'/'+u).join('\n')+'\n');
+const phs=[...new Set(JSON.stringify(C).match(/PLACEHOLDER_[A-Z_]+/g)||[])];
+console.log(`Built ${urls.length} pages -> out/`);console.log('Placeholders remaining:',phs.join(', ')||'none');
