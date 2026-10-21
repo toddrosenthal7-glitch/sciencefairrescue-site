@@ -1,0 +1,1290 @@
+# Science Fair Rescue
+
+> Last-minute science fair projects that actually work: safe, easy experiments with supplies, numbered steps, the science explained, and tri-fold board tips, sorted by grade (K-8) and time (5 minutes, 1 hour, overnight).
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/
+
+# Science fair tomorrow? We've got you.
+16 safe, easy projects using stuff you already have, each with a hypothesis, steps, the science, and board tips. Pick by grade or by how much time you have left.
+▶ Watch on YouTube
+
+How much time do you have?
+5 Minutes1 HourOvernight
+
+Pick your grade
+Grades 3–5Grades 6–8Grades 9–12Grades K–2
+
+Video projects
+
+### Which Paper Bridge Holds More Coins?
+Which paper bridge holds more coins? You find out by testing it yourself: fold a flat, a doubled and an accordion bridge from the same paper, load each one with identical coins under the same conditions, and compare all nine trials. This video shows you how to run that fair test. It doesn't give you an answer.
+Grades 6–81 Hour
+
+### Can a Paper Bridge Hold Coins?
+Can a paper bridge hold coins, and which shape holds the most? You find out by testing it with an adult: make flat, doubled and fan-folded bridges from matching paper, add coins one at a time, and compare all nine trials. This video shows you how to run that fair test. It doesn't give you an answer.
+Grades 3–51 Hour
+
+### Do More Paper Clips Make a Paper Helicopter Fall Faster?
+Do more paper clips make a paper helicopter fall faster? You find out by testing it yourself: build two matching paper helicopters, time 30 drops from a fixed 1.5 m height with one, two and three clips, and compare the mean fall times and their spread. This video shows you how to run that controlled test. It doesn't give you an answer.
+Grades 6–81 Hour
+
+### How Steep Before a Block Slides?
+How steep can a ramp get before a block slides? You measure it yourself: tilt a covered board slowly, bracket the first sliding angle for paper, plastic and cloth, and use μs = tan(θ) to estimate an effective static-friction coefficient for each covering. This video shows you how to run that test and handle the uncertainty. It doesn't give you an answer.
+Grades 9–121 Hour
+
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+## All projects
+
+### Which Paper Bridge Holds More Coins?
+Which paper bridge holds more coins? You find out by testing it yourself: fold a flat, a doubled and an accordion bridge from the same paper, load each one with identical coins under the same conditions, and compare all nine trials. This video shows you how to run that fair test. It doesn't give you an answer.
+Grades 6–81 Hour
+
+### Can a Paper Bridge Hold Coins?
+Can a paper bridge hold coins, and which shape holds the most? You find out by testing it with an adult: make flat, doubled and fan-folded bridges from matching paper, add coins one at a time, and compare all nine trials. This video shows you how to run that fair test. It doesn't give you an answer.
+Grades 3–51 Hour
+
+### Do More Paper Clips Make a Paper Helicopter Fall Faster?
+Do more paper clips make a paper helicopter fall faster? You find out by testing it yourself: build two matching paper helicopters, time 30 drops from a fixed 1.5 m height with one, two and three clips, and compare the mean fall times and their spread. This video shows you how to run that controlled test. It doesn't give you an answer.
+Grades 6–81 Hour
+
+### How Steep Before a Block Slides?
+How steep can a ramp get before a block slides? You measure it yourself: tilt a covered board slowly, bracket the first sliding angle for paper, plastic and cloth, and use μs = tan(θ) to estimate an effective static-friction coefficient for each covering. This video shows you how to run that test and handle the uncertainty. It doesn't give you an answer.
+Grades 9–121 Hour
+
+### Baking Soda Volcano: Which Mix Erupts Biggest?
+The classic, turned into a real experiment by changing how much vinegar you use.
+Grades K–2Grades 3–51 Hour
+
+### Dancing Raisins: Soda vs. Water
+Raisins float up and sink down in soda. Done in five minutes.
+Grades K–25 Minutes
+
+### Walking Water Rainbow
+Water climbs up paper towels and mixes colors between cups.
+Grades K–2Grades 3–5Overnight
+
+### Lemon Battery: How Many Lemons to Light an LED?
+Turn lemons into a battery and test how many it takes to light a small LED.
+Grades 6–81 Hour
+
+### The Naked Egg: Vinegar Dissolves the Shell
+Soak an egg in vinegar and the shell disappears, leaving a bouncy egg.
+Grades 3–5Grades 6–8Overnight
+
+### Skittles Rainbow: Does Water Temperature Matter?
+Candy color spreads in water. Test warm vs. cold.
+Grades K–2Grades 3–55 Minutes
+
+### Liquid Density Tower
+Stack kitchen liquids in colorful layers that don't mix.
+Grades 3–5Grades 6–81 Hour
+
+### Which Paper Towel Brand Absorbs the Most?
+A fair test of paper towel brands with just a cup of water.
+Grades 3–51 Hour
+
+### What Melts Ice Fastest: Salt, Sugar, or Sand?
+Sprinkle three kitchen items on ice cubes and race them.
+Grades 3–5Grades 6–81 Hour
+
+### Colored Celery: How Plants Drink Water
+Celery stalks pull colored water up to their leaves.
+Grades K–2Grades 3–5Overnight
+
+### Paper Airplane Design: Which Flies Farthest?
+Fold three designs, throw each the same way, and measure.
+Grades 3–5Grades 6–81 Hour
+
+### Yeast Balloon: Does Sugar Feed Yeast?
+Yeast eats sugar and blows up a balloon by itself.
+Grades 6–81 Hour
+
+## Quick answers
+
+### What is the easiest science fair project to do the night before?
+Pick a 5-minute or 1-hour project that uses kitchen supplies, like walking water or a baking soda volcano. Change one thing, measure the result three times, and chart it.
+
+### What goes on a science fair tri-fold board?
+Left panel: question, hypothesis, research. Middle: big title, data charts, photos. Right: materials, procedure, results, conclusion.
+
+### How do I write a hypothesis?
+Use the If, then, because format: If I change X, then Y will happen, because of a reason you can explain.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/paper-bridge-coins.html
+
+# Which Paper Bridge Holds More Coins?
+Grades 6–81 HourWhich paper bridge holds more coins? You find out by testing it yourself: fold a flat, a doubled and an accordion bridge from the same paper, load each one with identical coins under the same conditions, and compare all nine trials. This video shows you how to run that fair test. It doesn't give you an answer.
+
+Watch on YouTube: Which Paper Bridge Holds More Coins? | Build & Test 3 Designs Yourself
+This is an illustrated instructional guide with synthetic narration, not filmed experimental evidence. The setup has not been physically tested, and no test results or winning design are claimed. You run the test and record your own observations.
+
+Question: Which Paper Bridge Holds More Coins?
+Hypothesis: Write your own If–then–because prediction before testing; this guide doesn't give you an answer.
+
+Safety: Have an adult check the setup. Work on a clear table away from the edge. Keep hands and faces out of the collapse area. Coins are a choking hazard: keep younger children and pets away. Stop at 30 coins or if anything is unstable. Never sit, stand or press on the bridge. No heavy weights or glass.
+
+## Supplies (mostly already in your kitchen)
+
+- Printer paper (one pack, all the same size)
+- Lightweight paper cups (flat base)
+- Ruler
+- Shallow tray to catch coins
+- Timer
+- Tri-fold display board, 36x48
+- 2 equal stacks of books (3–5 cm tall), a pencil, and 30 coins of one kind.
+
+Time: Setup 5–10 min, nine tests 20–35 min, analysis 20–30 min. These are planning estimates, not measured times. This 5-minute video is a guide, not a finished science fair project. Check your teacher's requirements.
+
+## Steps
+Set two low, level book stacks 15 cm apart over a tray.Fold three designs from matching sheets: A flat, B doubled lengthwise, C accordion.Make three fresh sheets of each design (9 total). Never reuse tested paper.Center the empty cup on the bridge, then add coins one at a time in the same order, waiting 5 seconds after each.Stop at failure or at 30 coins. Record capped tests as "at least 30."Repeat for all nine trials, find the average per design, and graph your results.
+
+## Video chapters
+
+- 0:00 The question & what this guide is
+- 0:24 Supplies & safety
+- 0:57 Predict & plan a fair test
+- 1:26 Set up the supports
+- 1:42 Fold the three designs
+- 2:16 Make & label your bridges
+- 2:29 Load the cup, one coin at a time
+- 3:13 Stopping rule: 30 coins
+- 3:31 Test order & accidents
+- 4:07 Why shape matters
+- 4:22 Analyze & graph
+- 5:02 Clean up & timing
+
+## The science, explained
+Which paper bridge holds more coins? You find out by testing it yourself: fold a flat, a doubled and an accordion bridge from the same paper, load each one with identical coins under the same conditions, and compare all nine trials. This video shows you how to run that fair test. It doesn't give you an answer.
+
+## Common question
+
+### Which Paper Bridge Holds More Coins?
+Short answer: Which paper bridge holds more coins? You find out by testing it yourself: fold a flat, a doubled and an accordion bridge from the same paper, load each one with identical coins under the same conditions, and compare all nine trials. This video shows you how to run that fair test. It doesn't give you an answer.
+
+## Board tips
+
+- Left: question and your hypothesis.
+- Middle: your data table and graph from every trial.
+- Right: materials, procedure, results and conclusion.
+Use our tri-fold board layout to put it all together fast.
+
+## Missing something? Shop the supplies
+
+- Printer paper (one pack, all the same size)
+- Lightweight paper cups (flat base)
+- Ruler
+- Shallow tray to catch coins
+- Timer
+- Tri-fold display board, 36x48
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/paper-bridge-coins-grades-3-5.html
+
+# Can a Paper Bridge Hold Coins?
+Grades 3–51 HourCan a paper bridge hold coins, and which shape holds the most? You find out by testing it with an adult: make flat, doubled and fan-folded bridges from matching paper, add coins one at a time, and compare all nine trials. This video shows you how to run that fair test. It doesn't give you an answer.
+
+Watch on YouTube: Can a Paper Bridge Hold Coins? | Easy Science Fair Project for Grades 3–5
+This is an illustrated instructional guide with synthetic narration, not filmed experimental evidence. The setup has not been physically tested, and no test results are claimed. You run the test and record your own observations.
+
+Question: Can a Paper Bridge Hold Coins?
+Hypothesis: Write your own If–then–because prediction before testing; this guide doesn't give you an answer.
+
+Safety: Work with an adult the whole time. Keep coins away from small children and pets (choking hazard). Work away from the table edge and keep the books low and steady. Never push down on the bridge. No glass or heavy weights. Always stop at 30 coins, and stop if anything becomes unsafe.
+
+## Supplies (mostly already in your kitchen)
+
+- Printer paper (one pack, all the same size)
+- Lightweight paper cups (flat base)
+- Ruler
+- Shallow tray to catch coins
+- Timer or clock
+- Tri-fold display board, 36x48
+- 2 equal stacks of books (3–5 cm tall), a pencil, and 30 coins of the same kind.
+
+Time: Building, testing and writing take longer than this 6-minute video. No times are given or claimed. This video is a guide, not a finished science fair project. Check your teacher's requirements.
+
+## Steps
+With your adult, set two level book stacks (3–5 cm tall) 15 cm apart over a tray.Lay the long side of the paper across the gap with equal overlap on each stack.Make three shapes from matching sheets: A flat, B doubled lengthwise, C folded like a fan and opened to 10 cm wide.Make three fresh bridges of each shape (9 total) and label them A1–C3. Never reuse tested paper.Put the empty cup in the middle, wait 5 seconds, then add coins one at a time, waiting 5 seconds after each.Stop when the bridge fails or at 30 coins. Write "at least 30" if it still holds.Test in the worksheet order, then compare the three counts for each shape.
+
+## Video chapters
+
+- 0:00 Can a paper bridge hold coins?
+- 0:18 Supplies
+- 0:39 Safe work space
+- 0:59 Make a prediction
+- 1:14 Set up the books
+- 1:34 Lay the paper across the gap
+- 1:49 Shapes A and B
+- 2:07 Shape C: the paper fan
+- 2:41 Make & label nine bridges
+- 2:57 Place the empty cup
+- 3:33 Add coins, one at a time
+- 3:53 When to stop (30 coins)
+- 4:25 Test order & accidents
+- 5:02 Why shape matters
+- 5:16 Compare your counts
+- 5:45 Clean up & next steps
+
+## The science, explained
+Can a paper bridge hold coins, and which shape holds the most? You find out by testing it with an adult: make flat, doubled and fan-folded bridges from matching paper, add coins one at a time, and compare all nine trials. This video shows you how to run that fair test. It doesn't give you an answer.
+
+## Common question
+
+### Can a Paper Bridge Hold Coins?
+Short answer: Can a paper bridge hold coins, and which shape holds the most? You find out by testing it with an adult: make flat, doubled and fan-folded bridges from matching paper, add coins one at a time, and compare all nine trials. This video shows you how to run that fair test. It doesn't give you an answer.
+
+## Board tips
+
+- Left: question and your hypothesis.
+- Middle: your data table and graph from every trial.
+- Right: materials, procedure, results and conclusion.
+Use our tri-fold board layout to put it all together fast.
+
+## Missing something? Shop the supplies
+
+- Printer paper (one pack, all the same size)
+- Lightweight paper cups (flat base)
+- Ruler
+- Shallow tray to catch coins
+- Timer or clock
+- Tri-fold display board, 36x48
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/paper-helicopter-paper-clips.html
+
+# Do More Paper Clips Make a Paper Helicopter Fall Faster?
+Grades 6–81 HourDo more paper clips make a paper helicopter fall faster? You find out by testing it yourself: build two matching paper helicopters, time 30 drops from a fixed 1.5 m height with one, two and three clips, and compare the mean fall times and their spread. This video shows you how to run that controlled test. It doesn't give you an answer.
+
+Watch on YouTube: Do More Paper Clips Make a Paper Helicopter Fall Faster? | Science Fair Project
+This is an illustrated instructional guide with synthetic narration, not filmed experimental evidence. The setup has not been physically tested, and no test results are claimed. You run the test and record your own observations.
+
+Question: Do More Paper Clips Make a Paper Helicopter Fall Faster?
+Hypothesis: Write your own If–then–because prediction before testing; this guide doesn't give you an answer.
+
+Safety: An adult supervises scissors. Paper clips are small parts: keep them away from faces, pets and younger children. Stay on the floor: no chairs, tables, stairs or climbing. Work indoors with fans off and a clear landing area. No outdoor wind or road testing. Stop if clips can't be secured.
+
+## Supplies (mostly already in your kitchen)
+
+- Copier paper, 75–90 g/m²
+- Standard steel paper clips (uncoated, about 28–32 mm)
+- Metric ruler
+- Scissors (adult supervision)
+- Tape measure
+- Digital stopwatch
+- Index cards (for order cards 1, 2, 3)
+- Masking tape (height marker only)
+- Tri-fold display board, 36x48
+- a pencil, a notebook, and a helper to time. A camera is optional.
+
+Time: Build 20–30 min, hand-timed trials 25–40 min, graph and write-up 20–30 min (65–100 min total). Frame analysis may add 20–45 min. These are unvalidated planning estimates, not measured times. Video runtime is not experiment time. Check your teacher's requirements.
+
+## Steps
+Cut two 60 x 180 mm rectangles from the same sheet and label them H1 and H2.Cut and fold each into a helicopter: two 30 x 90 mm blades folded in opposite directions, a 20 mm stem, and the bottom 10 mm folded up.Nest one, two or three clips at the same spot on the bottom of the stem. Check the fit before every drop.Mark 1.50 m above the floor (or 1.20 m for the whole experiment if you can't reach it with feet on the floor).Shuffle order cards 1, 2, 3 for each round. Run five rounds per helicopter: 30 valid drops in total.Release without pushing or spin. The helper times from release to first floor contact, to 0.1 s.Record every drop, including invalid ones. Find the mean, minimum and maximum for each helicopter and clip count, then graph clip count vs mean fall time.
+
+## Video chapters
+
+- 0:00 The question
+- 0:07 Before you begin
+- 0:29 Materials
+- 1:12 Cut the helicopter
+- 1:53 Fold the stem & blades
+- 2:23 Add the paper clips
+- 2:38 Drop zone & height
+- 3:08 Practice & payload order
+- 3:36 Release & timing
+- 4:21 Record every drop
+- 4:57 Analyze your times
+- 5:26 Graph & look for a trend
+- 5:53 What to keep the same
+- 6:06 Why it works
+- 6:26 Limits of this test
+- 6:47 Timing & safety
+- 7:24 Your conclusion
+
+## The science, explained
+Do more paper clips make a paper helicopter fall faster? You find out by testing it yourself: build two matching paper helicopters, time 30 drops from a fixed 1.5 m height with one, two and three clips, and compare the mean fall times and their spread. This video shows you how to run that controlled test. It doesn't give you an answer.
+
+## Common question
+
+### Do More Paper Clips Make a Paper Helicopter Fall Faster?
+Short answer: Do more paper clips make a paper helicopter fall faster? You find out by testing it yourself: build two matching paper helicopters, time 30 drops from a fixed 1.5 m height with one, two and three clips, and compare the mean fall times and their spread. This video shows you how to run that controlled test. It doesn't give you an answer.
+
+## Board tips
+
+- Left: question and your hypothesis.
+- Middle: your data table and graph from every trial.
+- Right: materials, procedure, results and conclusion.
+Use our tri-fold board layout to put it all together fast.
+
+## Missing something? Shop the supplies
+
+- Copier paper, 75–90 g/m²
+- Standard steel paper clips (uncoated, about 28–32 mm)
+- Metric ruler
+- Scissors (adult supervision)
+- Tape measure
+- Digital stopwatch
+- Index cards (for order cards 1, 2, 3)
+- Masking tape (height marker only)
+- Tri-fold display board, 36x48
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/friction-ramp-block-slides.html
+
+# How Steep Before a Block Slides?
+Grades 9–121 HourHow steep can a ramp get before a block slides? You measure it yourself: tilt a covered board slowly, bracket the first sliding angle for paper, plastic and cloth, and use μs = tan(θ) to estimate an effective static-friction coefficient for each covering. This video shows you how to run that test and handle the uncertainty. It doesn't give you an answer.
+
+Watch on YouTube: How Steep Before a Block Slides? | Friction Ramp Science Fair Project (Grades 9–12)
+This is an illustrated instructional guide with synthetic narration, not filmed experimental evidence. The setup has not been physically tested, and no test results are claimed. You run the test and record your own observations.
+
+Question: How Steep Before a Block Slides?
+Hypothesis: Write your own If–then–because prediction before testing; this guide doesn't give you an answer.
+
+Safety: Have a teacher help with calibration and safety. Keep the apparatus low, use a light, broad block, put a soft catch at the low end and keep hands clear of the block's path. No student sawing, power cutting, glass, heavy added weights or tall stacks. Never tilt past 60°.
+
+## Supplies (mostly already in your kitchen)
+
+- Wooden craft blocks (about 40 x 40 x 10 mm)
+- Thin craft plywood board (about 300 x 150 mm, 6–10 mm thick)
+- Protractor, about 120 mm, 1° marks
+- Clear plastic document folders (smooth, non-adhesive)
+- Thin tightly woven cotton fabric
+- Thread and small washers (plumb bob)
+- Masking tape
+- Non-slip shelf liner (for the low-end stop)
+- Scientific calculator
+- Tri-fold display board, 36x48
+- printer paper, a ruler, a pencil, a towel for the soft catch, a record sheet and a helper. A side-on camera is optional.
+
+Time: Setup 25–40 min, 30 bracketed trials 40–65 min, calculations and write-up 35–50 min (100–155 min total). Advanced uncertainty work can add time. These are unvalidated planning estimates, not measured times. The video is only instruction. Check your teacher's requirements.
+
+## Steps
+Fix the low end of the board against a non-slip stop, work low and away from the table edge, and put a soft catch past the low end.Wrap one covering flat and secure it underneath, with no tape or seams in the block's path. Mark a start line 200 mm up the board.Mount the protractor upright on a raised tab beside the ramp, hang a thread and bob from its centre, and check the zero with the board flat.Place the block at the start line, then raise the board in about 1° steps, waiting about 2 seconds each time. Record the last no-slide and first sliding angle.Run 10 valid trials per covering in the blocked order shown. Stop at 60°; record "no slip at 60" if it never slides.Convert each midpoint angle with μ = tan(θc), report the mean and sample SD, and state an angular uncertainty bound.
+
+## Video chapters
+
+- 0:00 The question
+- 0:09 Before you begin
+- 0:35 Materials
+- 1:49 Build the ramp & covering
+- 2:25 Mount the angle gauge
+- 3:18 Procedure: find the first slide
+- 4:13 Trial order & 60° limit
+- 5:24 Forces & μs = tan θ
+- 6:13 Mean & sample SD
+- 6:53 Uncertainty bounds
+- 8:11 Discuss your results
+- 8:26 What to keep the same
+- 8:45 Assumptions
+- 9:07 Limits of this test
+- 9:28 Timing & safety
+- 10:19 Your conclusion
+
+## The science, explained
+How steep can a ramp get before a block slides? You measure it yourself: tilt a covered board slowly, bracket the first sliding angle for paper, plastic and cloth, and use μs = tan(θ) to estimate an effective static-friction coefficient for each covering. This video shows you how to run that test and handle the uncertainty. It doesn't give you an answer.
+
+## Common question
+
+### How Steep Before a Block Slides?
+Short answer: How steep can a ramp get before a block slides? You measure it yourself: tilt a covered board slowly, bracket the first sliding angle for paper, plastic and cloth, and use μs = tan(θ) to estimate an effective static-friction coefficient for each covering. This video shows you how to run that test and handle the uncertainty. It doesn't give you an answer.
+
+## Board tips
+
+- Left: question and your hypothesis.
+- Middle: your data table and graph from every trial.
+- Right: materials, procedure, results and conclusion.
+Use our tri-fold board layout to put it all together fast.
+
+## Missing something? Shop the supplies
+
+- Wooden craft blocks (about 40 x 40 x 10 mm)
+- Thin craft plywood board (about 300 x 150 mm, 6–10 mm thick)
+- Protractor, about 120 mm, 1° marks
+- Clear plastic document folders (smooth, non-adhesive)
+- Thin tightly woven cotton fabric
+- Thread and small washers (plumb bob)
+- Masking tape
+- Non-slip shelf liner (for the low-end stop)
+- Scientific calculator
+- Tri-fold display board, 36x48
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/baking-soda-volcano.html
+
+# Baking Soda Volcano: Which Mix Erupts Biggest?
+Grades K–2Grades 3–51 HourThe classic, turned into a real experiment by changing how much vinegar you use.
+
+Question: Does more vinegar make a bigger eruption?
+Hypothesis: If I add more vinegar to the same amount of baking soda, then the foam will rise higher, because more acid can react with the baking soda.
+
+Safety: Wear safety glasses. Do not taste anything, and do it on a tray or outside.
+
+## Supplies (mostly already in your kitchen)
+
+- Baking soda
+- White vinegar
+- Dish soap
+- Food coloring (optional)
+- A plastic cup or small bottle
+- Measuring spoons and cups
+- A baking tray to catch the mess
+- Ruler
+
+## Steps
+Put the cup on the tray.Add 1 tablespoon of baking soda and a squirt of dish soap.Pour in 1/4 cup of vinegar and measure how high the foam rises with the ruler.Clean out the cup and repeat with 1/2 cup, then 3/4 cup of vinegar.Do each amount 3 times and write down every result.
+
+## The science, explained
+Vinegar (an acid) reacts with baking soda (a base) and makes carbon dioxide gas. The dish soap traps the gas in bubbles, so you get foam. Once all the baking soda is used up, adding more vinegar can't make more gas.
+
+## Common question
+
+### Does more vinegar make a bigger eruption?
+Short answer: Vinegar (an acid) reacts with baking soda (a base) and makes carbon dioxide gas. The dish soap traps the gas in bubbles, so you get foam. Once all the baking soda is used up, adding more vinegar can't make more gas.
+
+## Board tips
+
+- Make a bar chart: vinegar amount vs. foam height.
+- Take a photo of each eruption at its highest point.
+- Explain why the foam stopped growing at some point (the baking soda ran out).
+Use our tri-fold board layout to put it all together fast.
+
+## Missing something? Shop the supplies
+
+- Volcano science kit
+- Measuring cups and spoons set
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/dancing-raisins.html
+
+# Dancing Raisins: Soda vs. Water
+Grades K–25 MinutesRaisins float up and sink down in soda. Done in five minutes.
+
+Question: Do raisins dance in fizzy soda but not in plain water?
+Hypothesis: If I drop raisins in clear soda, then they will rise and sink, because gas bubbles stick to them and lift them.
+
+Safety: Ask an adult before using soda. Don't drink the experiment.
+
+## Supplies (mostly already in your kitchen)
+
+- Raisins
+- Clear soda (like lemon-lime) or sparkling water
+- Plain tap water
+- 2 clear glasses
+
+## Steps
+Fill one glass with soda and one with tap water.Drop 5 raisins into each glass.Watch for 3 minutes and count how many times the raisins rise to the top in each glass.Write down what you see.
+
+## The science, explained
+Soda has carbon dioxide gas dissolved in it. Bubbles grab onto the wrinkly raisins and make them float. At the top the bubbles pop, so the raisins sink and start again. Plain water has no gas, so the raisins just sit on the bottom.
+
+## Common question
+
+### Do raisins dance in fizzy soda but not in plain water?
+Short answer: Soda has carbon dioxide gas dissolved in it. Bubbles grab onto the wrinkly raisins and make them float. At the top the bubbles pop, so the raisins sink and start again. Plain water has no gas, so the raisins just sit on the bottom.
+
+## Board tips
+
+- Draw a picture of a raisin with bubbles stuck to it.
+- Show a tally chart of rises in soda vs. water.
+Use our tri-fold board layout to put it all together fast.
+
+## Missing something? Shop the supplies
+
+- Clear plastic cups
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/walking-water.html
+
+# Walking Water Rainbow
+Grades K–2Grades 3–5OvernightWater climbs up paper towels and mixes colors between cups.
+
+Question: Can water travel up a paper towel and into another cup?
+Hypothesis: If I connect cups of colored water with paper towels, then the water will move into the empty cups, because paper towels soak up and pull water.
+
+Safety: Food coloring stains. Cover the table.
+
+## Supplies (mostly already in your kitchen)
+
+- 6 clear cups
+- Paper towels
+- Water
+- Food coloring (red, yellow, blue)
+
+## Steps
+Set 6 cups in a circle. Fill every other cup with water.Add red, yellow, and blue coloring to the full cups.Fold paper towels into strips and bend each one so it connects a full cup to an empty one.Check after 30 minutes, 2 hours, and the next morning. Take photos each time.
+
+## The science, explained
+This is called capillary action. Water sticks to the tiny fibers in the paper towel and climbs up the gaps between them. When two colors meet in an empty cup, they mix into new colors.
+
+## Common question
+
+### Can water travel up a paper towel and into another cup?
+Short answer: This is called capillary action. Water sticks to the tiny fibers in the paper towel and climbs up the gaps between them. When two colors meet in an empty cup, they mix into new colors.
+
+## Board tips
+
+- Use time-lapse photos in a row.
+- Label which colors mixed to make orange, green, and purple.
+Use our tri-fold board layout to put it all together fast.
+
+## Missing something? Shop the supplies
+
+- Food coloring set
+- Clear plastic cups
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/lemon-battery.html
+
+# Lemon Battery: How Many Lemons to Light an LED?
+Grades 6–81 HourTurn lemons into a battery and test how many it takes to light a small LED.
+
+Question: How many lemons in a row does it take to light an LED?
+Hypothesis: If I connect more lemons in a chain, then the voltage will go up, because each lemon cell adds its voltage to the others.
+
+Safety: Have an adult help push in the nails. Don't eat the lemons afterward.
+
+## Supplies (mostly already in your kitchen)
+
+- 4 lemons
+- 4 copper coins or copper strips
+- 4 galvanized (zinc-coated) nails
+- Alligator clip wires
+- A small LED
+- A multimeter (optional but great)
+
+## Steps
+Roll each lemon on the table to get the juice flowing.Push one nail and one copper coin into each lemon, about 2 cm apart.Clip the copper of lemon 1 to the nail of lemon 2, and keep going down the chain.Connect the free copper and free nail at the ends to the LED (try flipping it if it doesn't light).If you have a multimeter, measure the voltage with 1, 2, 3, and 4 lemons.
+
+## The science, explained
+The zinc and copper are two different metals, and the lemon juice is an acid that lets charged particles move between them. That makes a small electric current. One lemon gives less than 1 volt, and most LEDs need more, so connecting lemons in series adds the voltages together.
+
+## Common question
+
+### How many lemons in a row does it take to light an LED?
+Short answer: The zinc and copper are two different metals, and the lemon juice is an acid that lets charged particles move between them. That makes a small electric current. One lemon gives less than 1 volt, and most LEDs need more, so connecting lemons in series adds the voltages together.
+
+## Board tips
+
+- Draw a circuit diagram of your lemon chain.
+- Graph number of lemons vs. voltage.
+- Note whether the LED glowed and how bright.
+Use our tri-fold board layout to put it all together fast.
+
+## Missing something? Shop the supplies
+
+- Alligator clip test leads
+- Assorted LEDs
+- Digital multimeter
+- Fruit battery kit
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/naked-egg.html
+
+# The Naked Egg: Vinegar Dissolves the Shell
+Grades 3–5Grades 6–8OvernightSoak an egg in vinegar and the shell disappears, leaving a bouncy egg.
+
+Question: What happens to an eggshell left in vinegar?
+Hypothesis: If I soak an egg in vinegar, then the shell will dissolve, because the acid in vinegar reacts with the calcium carbonate in the shell.
+
+Safety: Raw egg: wash your hands after. Shine a flashlight through it, but don't bounce it high!
+
+## Supplies (mostly already in your kitchen)
+
+- 1 raw egg
+- White vinegar
+- A clear jar or glass
+- A spoon
+
+## Steps
+Put the egg in the jar and cover it with vinegar.Watch for tiny bubbles on the shell in the first few minutes.Leave it 24 to 48 hours. Change the vinegar after the first day if you can.Gently rinse the egg with water and rub off any leftover shell.Measure around the egg before and after with a string.
+
+## The science, explained
+Eggshells are mostly calcium carbonate. Vinegar's acetic acid breaks it down and makes carbon dioxide (the bubbles). The thin membrane under the shell stays, so the egg holds its shape. Water also soaks in through the membrane, so the egg gets a little bigger.
+
+## Common question
+
+### What happens to an eggshell left in vinegar?
+Short answer: Eggshells are mostly calcium carbonate. Vinegar's acetic acid breaks it down and makes carbon dioxide (the bubbles). The thin membrane under the shell stays, so the egg holds its shape. Water also soaks in through the membrane, so the egg gets a little bigger.
+
+## Board tips
+
+- Show before and after photos.
+- Report the size change you measured.
+- Explain the bubbles.
+Use our tri-fold board layout to put it all together fast.
+
+## Missing something? Shop the supplies
+
+- Clear glass jars
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/skittles-rainbow.html
+
+# Skittles Rainbow: Does Water Temperature Matter?
+Grades K–2Grades 3–55 MinutesCandy color spreads in water. Test warm vs. cold.
+
+Question: Does the color spread faster in warm water or cold water?
+Hypothesis: If I use warm water, then the colors will spread faster, because the molecules in warm water move faster.
+
+Safety: Have an adult handle hot water. Use warm, not boiling.
+
+## Supplies (mostly already in your kitchen)
+
+- Skittles or other coated candy
+- 2 white plates
+- Warm water and cold water
+- Timer
+
+## Steps
+Put a circle of candy on each plate, the same pattern on both.At the same time, pour warm water in the middle of one plate and cold water in the other.Time how long it takes the color to reach the middle.Take photos at 30 seconds, 1 minute, and 2 minutes.
+
+## The science, explained
+The candy coating is sugar and color, which dissolve in water. The color spreads out by diffusion. Warm water's molecules move faster, so dissolving and spreading happen faster.
+
+## Common question
+
+### Does the color spread faster in warm water or cold water?
+Short answer: The candy coating is sugar and color, which dissolve in water. The color spreads out by diffusion. Warm water's molecules move faster, so dissolving and spreading happen faster.
+
+## Board tips
+
+- Show side-by-side photos at each time.
+- List your times in a simple table.
+Use our tri-fold board layout to put it all together fast.
+
+## Missing something? Shop the supplies
+
+- White paper plates
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/density-tower.html
+
+# Liquid Density Tower
+Grades 3–5Grades 6–81 HourStack kitchen liquids in colorful layers that don't mix.
+
+Question: Why do some liquids float on top of others?
+Hypothesis: If I pour liquids slowly into a glass, then they will stack in order from heaviest (most dense) at the bottom to lightest on top.
+
+Safety: Rubbing alcohol is flammable and poisonous: adults only, keep away from flames, or skip it.
+
+## Supplies (mostly already in your kitchen)
+
+- Honey
+- Dish soap
+- Water (with food coloring)
+- Vegetable oil
+- Rubbing alcohol (optional, adult only)
+- A tall clear glass
+- Small objects to drop in: grape, cherry tomato, paper clip, cork
+
+## Steps
+Pour honey into the bottom of the glass.Slowly pour dish soap down the side of the glass, then colored water, then oil.Wait a minute for the layers to settle.Gently drop in small objects and see which layer each one stops at.Draw and label the layers.
+
+## The science, explained
+Density is how much stuff (mass) is packed into a space (volume). Denser liquids sink below less dense ones. An object stops at the layer where it's denser than the liquid above but less dense than the liquid below.
+
+## Common question
+
+### Why do some liquids float on top of others?
+Short answer: Density is how much stuff (mass) is packed into a space (volume). Denser liquids sink below less dense ones. An object stops at the layer where it's denser than the liquid above but less dense than the liquid below.
+
+## Board tips
+
+- Show a labeled diagram of the layers.
+- Make a table of where each object floated.
+- Define density in one sentence.
+Use our tri-fold board layout to put it all together fast.
+
+## Missing something? Shop the supplies
+
+- Tall clear cylinder vase
+- Food coloring set
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/paper-towel-test.html
+
+# Which Paper Towel Brand Absorbs the Most?
+Grades 3–51 HourA fair test of paper towel brands with just a cup of water.
+
+Question: Which paper towel brand soaks up the most water?
+Hypothesis: If I test different brands, then the thickest brand will soak up the most water, because it has more fibers to hold water.
+
+Safety: Ask before using scissors. Clean up spills.
+
+## Supplies (mostly already in your kitchen)
+
+- 3 or more paper towel brands
+- Measuring cup
+- Water
+- A bowl
+- Scissors and ruler
+
+## Steps
+Cut one same-size square from each brand.Put 1 cup of water in a bowl.Dip a square in for 10 seconds, lift it out, and let it drip for 10 seconds.Measure how much water is left in the bowl. The difference is how much the towel soaked up.Refill and repeat 3 times per brand.
+
+## The science, explained
+Paper towels soak up water by capillary action through the spaces between their fibers. Thickness, texture, and number of layers change how much space there is to hold water.
+
+## Common question
+
+### Which paper towel brand soaks up the most water?
+Short answer: Paper towels soak up water by capillary action through the spaces between their fibers. Thickness, texture, and number of layers change how much space there is to hold water.
+
+## Board tips
+
+- Put a bar chart of each brand's average absorption front and center.
+- Tape the actual dried squares to the board.
+- Explain why you did 3 trials (it makes the results more reliable).
+Use our tri-fold board layout to put it all together fast.
+
+## Missing something? Shop the supplies
+
+- Graduated cylinder set
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/what-melts-ice-fastest.html
+
+# What Melts Ice Fastest: Salt, Sugar, or Sand?
+Grades 3–5Grades 6–81 HourSprinkle three kitchen items on ice cubes and race them.
+
+Question: Which melts ice fastest: salt, sugar, or sand?
+Hypothesis: If I put salt, sugar, and sand on ice, then salt will melt it fastest, because salt lowers the freezing point of water the most.
+
+Safety: Easy and safe. Don't taste the salty water.
+
+## Supplies (mostly already in your kitchen)
+
+- 4 ice cubes the same size
+- Table salt
+- Sugar
+- Sand or dirt
+- 4 small plates
+- Timer
+- Teaspoon
+
+## Steps
+Put one ice cube on each plate. One plate gets nothing (the control).Sprinkle 1 teaspoon of salt, sugar, and sand on the other three.Check every 5 minutes and note how much each cube has melted.Record the time when each cube is completely melted.
+
+## The science, explained
+Salt dissolves into the thin layer of water on ice and lowers the temperature water needs to freeze, so the ice melts even below 0°C (32°F). Sugar does this too but much less, since it makes fewer particles per spoonful. Sand doesn't dissolve, so it mostly just adds a little texture.
+
+## Common question
+
+### Which melts ice fastest: salt, sugar, or sand?
+Short answer: Salt dissolves into the thin layer of water on ice and lowers the temperature water needs to freeze, so the ice melts even below 0°C (32°F). Sugar does this too but much less, since it makes fewer particles per spoonful. Sand doesn't dissolve, so it mostly just adds a little texture.
+
+## Board tips
+
+- Show a line graph of time vs. how melted each cube is.
+- Explain what a control is and why you used one.
+- Connect it to why roads are salted in winter.
+Use our tri-fold board layout to put it all together fast.
+
+## Missing something? Shop the supplies
+
+- Kitchen timer
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/celery-color.html
+
+# Colored Celery: How Plants Drink Water
+Grades K–2Grades 3–5OvernightCelery stalks pull colored water up to their leaves.
+
+Question: How does water move up through a plant?
+Hypothesis: If I put celery in colored water, then the leaves will change color, because the stalk carries water up to the leaves.
+
+Safety: Only adults use the knife.
+
+## Supplies (mostly already in your kitchen)
+
+- 3 celery stalks with leaves
+- 3 glasses of water
+- Food coloring
+- A knife (adult)
+
+## Steps
+Have an adult cut the bottom off each stalk.Add lots of food coloring to each glass (one color per glass).Put a stalk in each glass.Check after 1 hour, 4 hours, and the next morning.Have an adult cut one stalk across and look at the colored dots.
+
+## The science, explained
+Plants have tubes called xylem that carry water from the roots up to the leaves. Water evaporating from the leaves pulls more water up behind it. The color comes along for the ride, showing the path.
+
+## Common question
+
+### How does water move up through a plant?
+Short answer: Plants have tubes called xylem that carry water from the roots up to the leaves. Water evaporating from the leaves pulls more water up behind it. The color comes along for the ride, showing the path.
+
+## Board tips
+
+- Tape a cross-section photo showing the colored xylem dots.
+- Make a timeline of photos.
+- Label a drawing: xylem, stalk, leaves.
+Use our tri-fold board layout to put it all together fast.
+
+## Missing something? Shop the supplies
+
+- Food coloring set
+- Kids magnifying glass
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/paper-airplane.html
+
+# Paper Airplane Design: Which Flies Farthest?
+Grades 3–5Grades 6–81 HourFold three designs, throw each the same way, and measure.
+
+Question: Which paper airplane design flies the farthest?
+Hypothesis: If I test three designs, then the dart design will fly farthest, because its narrow shape has less air resistance.
+
+Safety: Never throw toward anyone's face.
+
+## Supplies (mostly already in your kitchen)
+
+- Printer paper (same kind for all)
+- Tape measure
+- Masking tape for a start line
+- A hallway or gym
+
+## Steps
+Fold three designs: a dart, a glider with wide wings, and one of your own.Mark a start line with tape.Throw each plane 5 times the same way, from the same spot.Measure each distance and write it down.Find the average for each design.
+
+## The science, explained
+Four forces act on a plane: lift, weight, thrust (your throw), and drag. Wide wings create more lift but also more drag. Narrow darts have less drag but less lift. The best design balances them.
+
+## Common question
+
+### Which paper airplane design flies the farthest?
+Short answer: Four forces act on a plane: lift, weight, thrust (your throw), and drag. Wide wings create more lift but also more drag. Narrow darts have less drag but less lift. The best design balances them.
+
+## Board tips
+
+- Glue the three actual planes to the board.
+- Show a bar chart of average distances.
+- Draw the four forces with arrows.
+Use our tri-fold board layout to put it all together fast.
+
+## Missing something? Shop the supplies
+
+- 25-foot tape measure
+- Paper airplane book
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/yeast-balloon.html
+
+# Yeast Balloon: Does Sugar Feed Yeast?
+Grades 6–81 HourYeast eats sugar and blows up a balloon by itself.
+
+Question: Does more sugar make yeast produce more gas?
+Hypothesis: If I give yeast more sugar, then the balloon will inflate more, because yeast makes carbon dioxide as it eats sugar.
+
+Safety: Warm water, not hot (hot water kills yeast). Some people are allergic to latex balloons.
+
+## Supplies (mostly already in your kitchen)
+
+- 3 packets of active dry yeast
+- Sugar
+- Warm water
+- 3 empty plastic bottles
+- 3 balloons
+- String and ruler
+
+## Steps
+Put 1 cup of warm (not hot) water and 1 packet of yeast in each bottle.Add 0, 1, and 2 tablespoons of sugar to the three bottles.Stretch a balloon over the top of each bottle.Every 15 minutes for an hour, measure around each balloon with string.Record your measurements.
+
+## The science, explained
+Yeast is a tiny living fungus. When it eats sugar, it releases carbon dioxide gas, which fills the balloon. This is called fermentation, and it's the same thing that makes bread rise.
+
+## Common question
+
+### Does more sugar make yeast produce more gas?
+Short answer: Yeast is a tiny living fungus. When it eats sugar, it releases carbon dioxide gas, which fills the balloon. This is called fermentation, and it's the same thing that makes bread rise.
+
+## Board tips
+
+- Show a line graph of balloon size over time for each bottle.
+- Explain fermentation in your own words.
+- Connect it to bread.
+Use our tri-fold board layout to put it all together fast.
+
+## Missing something? Shop the supplies
+
+- Party balloons
+- Active dry yeast
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+📘 Want every project in one place? Get the Science Fair Rescue ebook on Amazon.
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/grade-35.html
+
+# Grades 3–5 Science Fair Projects
+
+### Can a Paper Bridge Hold Coins?
+Can a paper bridge hold coins, and which shape holds the most? You find out by testing it with an adult: make flat, doubled and fan-folded bridges from matching paper, add coins one at a time, and compare all nine trials. This video shows you how to run that fair test. It doesn't give you an answer.
+Grades 3–51 Hour
+
+### Baking Soda Volcano: Which Mix Erupts Biggest?
+The classic, turned into a real experiment by changing how much vinegar you use.
+Grades K–2Grades 3–51 Hour
+
+### Walking Water Rainbow
+Water climbs up paper towels and mixes colors between cups.
+Grades K–2Grades 3–5Overnight
+
+### The Naked Egg: Vinegar Dissolves the Shell
+Soak an egg in vinegar and the shell disappears, leaving a bouncy egg.
+Grades 3–5Grades 6–8Overnight
+
+### Skittles Rainbow: Does Water Temperature Matter?
+Candy color spreads in water. Test warm vs. cold.
+Grades K–2Grades 3–55 Minutes
+
+### Liquid Density Tower
+Stack kitchen liquids in colorful layers that don't mix.
+Grades 3–5Grades 6–81 Hour
+
+### Which Paper Towel Brand Absorbs the Most?
+A fair test of paper towel brands with just a cup of water.
+Grades 3–51 Hour
+
+### What Melts Ice Fastest: Salt, Sugar, or Sand?
+Sprinkle three kitchen items on ice cubes and race them.
+Grades 3–5Grades 6–81 Hour
+
+### Colored Celery: How Plants Drink Water
+Celery stalks pull colored water up to their leaves.
+Grades K–2Grades 3–5Overnight
+
+### Paper Airplane Design: Which Flies Farthest?
+Fold three designs, throw each the same way, and measure.
+Grades 3–5Grades 6–81 Hour
+
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/grade-68.html
+
+# Grades 6–8 Science Fair Projects
+
+### Which Paper Bridge Holds More Coins?
+Which paper bridge holds more coins? You find out by testing it yourself: fold a flat, a doubled and an accordion bridge from the same paper, load each one with identical coins under the same conditions, and compare all nine trials. This video shows you how to run that fair test. It doesn't give you an answer.
+Grades 6–81 Hour
+
+### Do More Paper Clips Make a Paper Helicopter Fall Faster?
+Do more paper clips make a paper helicopter fall faster? You find out by testing it yourself: build two matching paper helicopters, time 30 drops from a fixed 1.5 m height with one, two and three clips, and compare the mean fall times and their spread. This video shows you how to run that controlled test. It doesn't give you an answer.
+Grades 6–81 Hour
+
+### Lemon Battery: How Many Lemons to Light an LED?
+Turn lemons into a battery and test how many it takes to light a small LED.
+Grades 6–81 Hour
+
+### The Naked Egg: Vinegar Dissolves the Shell
+Soak an egg in vinegar and the shell disappears, leaving a bouncy egg.
+Grades 3–5Grades 6–8Overnight
+
+### Liquid Density Tower
+Stack kitchen liquids in colorful layers that don't mix.
+Grades 3–5Grades 6–81 Hour
+
+### What Melts Ice Fastest: Salt, Sugar, or Sand?
+Sprinkle three kitchen items on ice cubes and race them.
+Grades 3–5Grades 6–81 Hour
+
+### Paper Airplane Design: Which Flies Farthest?
+Fold three designs, throw each the same way, and measure.
+Grades 3–5Grades 6–81 Hour
+
+### Yeast Balloon: Does Sugar Feed Yeast?
+Yeast eats sugar and blows up a balloon by itself.
+Grades 6–81 Hour
+
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/grade-912.html
+
+# Grades 9–12 Science Fair Projects
+
+### How Steep Before a Block Slides?
+How steep can a ramp get before a block slides? You measure it yourself: tilt a covered board slowly, bracket the first sliding angle for paper, plastic and cloth, and use μs = tan(θ) to estimate an effective static-friction coefficient for each covering. This video shows you how to run that test and handle the uncertainty. It doesn't give you an answer.
+Grades 9–121 Hour
+
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/grade-k2.html
+
+# Grades K–2 Science Fair Projects
+
+### Baking Soda Volcano: Which Mix Erupts Biggest?
+The classic, turned into a real experiment by changing how much vinegar you use.
+Grades K–2Grades 3–51 Hour
+
+### Dancing Raisins: Soda vs. Water
+Raisins float up and sink down in soda. Done in five minutes.
+Grades K–25 Minutes
+
+### Walking Water Rainbow
+Water climbs up paper towels and mixes colors between cups.
+Grades K–2Grades 3–5Overnight
+
+### Skittles Rainbow: Does Water Temperature Matter?
+Candy color spreads in water. Test warm vs. cold.
+Grades K–2Grades 3–55 Minutes
+
+### Colored Celery: How Plants Drink Water
+Celery stalks pull colored water up to their leaves.
+Grades K–2Grades 3–5Overnight
+
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/time-5min.html
+
+# 5 Minutes Science Fair Projects
+
+### Dancing Raisins: Soda vs. Water
+Raisins float up and sink down in soda. Done in five minutes.
+Grades K–25 Minutes
+
+### Skittles Rainbow: Does Water Temperature Matter?
+Candy color spreads in water. Test warm vs. cold.
+Grades K–2Grades 3–55 Minutes
+
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/time-1hour.html
+
+# 1 Hour Science Fair Projects
+
+### Which Paper Bridge Holds More Coins?
+Which paper bridge holds more coins? You find out by testing it yourself: fold a flat, a doubled and an accordion bridge from the same paper, load each one with identical coins under the same conditions, and compare all nine trials. This video shows you how to run that fair test. It doesn't give you an answer.
+Grades 6–81 Hour
+
+### Can a Paper Bridge Hold Coins?
+Can a paper bridge hold coins, and which shape holds the most? You find out by testing it with an adult: make flat, doubled and fan-folded bridges from matching paper, add coins one at a time, and compare all nine trials. This video shows you how to run that fair test. It doesn't give you an answer.
+Grades 3–51 Hour
+
+### Do More Paper Clips Make a Paper Helicopter Fall Faster?
+Do more paper clips make a paper helicopter fall faster? You find out by testing it yourself: build two matching paper helicopters, time 30 drops from a fixed 1.5 m height with one, two and three clips, and compare the mean fall times and their spread. This video shows you how to run that controlled test. It doesn't give you an answer.
+Grades 6–81 Hour
+
+### How Steep Before a Block Slides?
+How steep can a ramp get before a block slides? You measure it yourself: tilt a covered board slowly, bracket the first sliding angle for paper, plastic and cloth, and use μs = tan(θ) to estimate an effective static-friction coefficient for each covering. This video shows you how to run that test and handle the uncertainty. It doesn't give you an answer.
+Grades 9–121 Hour
+
+### Baking Soda Volcano: Which Mix Erupts Biggest?
+The classic, turned into a real experiment by changing how much vinegar you use.
+Grades K–2Grades 3–51 Hour
+
+### Lemon Battery: How Many Lemons to Light an LED?
+Turn lemons into a battery and test how many it takes to light a small LED.
+Grades 6–81 Hour
+
+### Liquid Density Tower
+Stack kitchen liquids in colorful layers that don't mix.
+Grades 3–5Grades 6–81 Hour
+
+### Which Paper Towel Brand Absorbs the Most?
+A fair test of paper towel brands with just a cup of water.
+Grades 3–51 Hour
+
+### What Melts Ice Fastest: Salt, Sugar, or Sand?
+Sprinkle three kitchen items on ice cubes and race them.
+Grades 3–5Grades 6–81 Hour
+
+### Paper Airplane Design: Which Flies Farthest?
+Fold three designs, throw each the same way, and measure.
+Grades 3–5Grades 6–81 Hour
+
+### Yeast Balloon: Does Sugar Feed Yeast?
+Yeast eats sugar and blows up a balloon by itself.
+Grades 6–81 Hour
+
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/time-overnight.html
+
+# Overnight Science Fair Projects
+
+### Walking Water Rainbow
+Water climbs up paper towels and mixes colors between cups.
+Grades K–2Grades 3–5Overnight
+
+### The Naked Egg: Vinegar Dissolves the Shell
+Soak an egg in vinegar and the shell disappears, leaving a bouncy egg.
+Grades 3–5Grades 6–8Overnight
+
+### Colored Celery: How Plants Drink Water
+Celery stalks pull colored water up to their leaves.
+Grades K–2Grades 3–5Overnight
+
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/supplies.html
+
+# Last-Minute Supply List
+As an Amazon Associate we earn from qualifying purchases. Links may be affiliate links at no extra cost to you.
+Don't forget the board: Tri-fold display boards · Board header letters · Glue sticks
+
+- Printer paper (one pack, all the same size)
+- Lightweight paper cups (flat base)
+- Ruler
+- Shallow tray to catch coins
+- Timer
+- Tri-fold display board, 36x48
+- Timer or clock
+- Copier paper, 75–90 g/m²
+- Standard steel paper clips (uncoated, about 28–32 mm)
+- Metric ruler
+- Scissors (adult supervision)
+- Tape measure
+- Digital stopwatch
+- Index cards (for order cards 1, 2, 3)
+- Masking tape (height marker only)
+- Wooden craft blocks (about 40 x 40 x 10 mm)
+- Thin craft plywood board (about 300 x 150 mm, 6–10 mm thick)
+- Protractor, about 120 mm, 1° marks
+- Clear plastic document folders (smooth, non-adhesive)
+- Thin tightly woven cotton fabric
+- Thread and small washers (plumb bob)
+- Masking tape
+- Non-slip shelf liner (for the low-end stop)
+- Scientific calculator
+- Volcano science kit
+- Measuring cups and spoons set
+- Clear plastic cups
+- Food coloring set
+- Alligator clip test leads
+- Assorted LEDs
+- Digital multimeter
+- Fruit battery kit
+- Clear glass jars
+- White paper plates
+- Tall clear cylinder vase
+- Graduated cylinder set
+- Kitchen timer
+- Kids magnifying glass
+- 25-foot tape measure
+- Paper airplane book
+- Party balloons
+- Active dry yeast
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/board-layout.html
+
+# How to Lay Out Your Tri-Fold Board
+
+### Left panel
+
+- Question
+- Hypothesis
+- Background research
+
+### Middle panel
+
+- Big title on top
+- Data: charts and tables
+- Photos of the experiment
+
+### Right panel
+
+- Materials and procedure
+- Results
+- Conclusion
+
+Tip: Print headings in large letters, and check your teacher's rubric first. Requirements vary by school.
+Free printable project pack: coming soonOur email list is launching soon. Meanwhile, grab the free Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.

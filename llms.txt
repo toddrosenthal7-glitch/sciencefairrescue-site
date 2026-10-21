@@ -1,0 +1,38 @@
+# Science Fair Rescue
+
+> Last-minute science fair projects that actually work: safe, easy experiments with supplies, numbered steps, the science explained, and tri-fold board tips, sorted by grade (K-8) and time (5 minutes, 1 hour, overnight).
+
+Every project page has a question, hypothesis, supply list, numbered steps, explanation, and board tips, plus HowTo structured data. Videos: https://www.youtube.com/@sciencefairrescue
+
+## Pages
+
+- [Last-Minute Science Fair Projects](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/): Easy, safe science fair projects you can finish tonight, with hypothesis, steps, and board tips.
+- [Which Paper Bridge Holds More Coins?](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/paper-bridge-coins.html): Which paper bridge holds more coins? You find out by testing it yourself: fold a flat, a doubled and an accordion bridge from the same paper, load each one with identical coins under the same conditions, and compare all nine trials. This video shows you how to run that fair test. It doesn't give you an answer.
+- [Can a Paper Bridge Hold Coins?](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/paper-bridge-coins-grades-3-5.html): Can a paper bridge hold coins, and which shape holds the most? You find out by testing it with an adult: make flat, doubled and fan-folded bridges from matching paper, add coins one at a time, and compare all nine trials. This video shows you how to run that fair test. It doesn't give you an answer.
+- [Do More Paper Clips Make a Paper Helicopter Fall Faster?](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/paper-helicopter-paper-clips.html): Do more paper clips make a paper helicopter fall faster? You find out by testing it yourself: build two matching paper helicopters, time 30 drops from a fixed 1.5 m height with one, two and three clips, and compare the mean fall times and their spread. This video shows you how to run that controlled test. It doesn't give you an answer.
+- [How Steep Before a Block Slides?](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/friction-ramp-block-slides.html): How steep can a ramp get before a block slides? You measure it yourself: tilt a covered board slowly, bracket the first sliding angle for paper, plastic and cloth, and use μs = tan(θ) to estimate an effective static-friction coefficient for each covering. This video shows you how to run that test and handle the uncertainty. It doesn't give you an answer.
+- [Baking Soda Volcano: Which Mix Erupts Biggest?](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/baking-soda-volcano.html): The classic, turned into a real experiment by changing how much vinegar you use.
+- [Dancing Raisins: Soda vs. Water](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/dancing-raisins.html): Raisins float up and sink down in soda. Done in five minutes.
+- [Walking Water Rainbow](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/walking-water.html): Water climbs up paper towels and mixes colors between cups.
+- [Lemon Battery: How Many Lemons to Light an LED?](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/lemon-battery.html): Turn lemons into a battery and test how many it takes to light a small LED.
+- [The Naked Egg: Vinegar Dissolves the Shell](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/naked-egg.html): Soak an egg in vinegar and the shell disappears, leaving a bouncy egg.
+- [Skittles Rainbow: Does Water Temperature Matter?](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/skittles-rainbow.html): Candy color spreads in water. Test warm vs. cold.
+- [Liquid Density Tower](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/density-tower.html): Stack kitchen liquids in colorful layers that don't mix.
+- [Which Paper Towel Brand Absorbs the Most?](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/paper-towel-test.html): A fair test of paper towel brands with just a cup of water.
+- [What Melts Ice Fastest: Salt, Sugar, or Sand?](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/what-melts-ice-fastest.html): Sprinkle three kitchen items on ice cubes and race them.
+- [Colored Celery: How Plants Drink Water](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/celery-color.html): Celery stalks pull colored water up to their leaves.
+- [Paper Airplane Design: Which Flies Farthest?](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/paper-airplane.html): Fold three designs, throw each the same way, and measure.
+- [Yeast Balloon: Does Sugar Feed Yeast?](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/yeast-balloon.html): Yeast eats sugar and blows up a balloon by itself.
+- [Grades 3–5 Science Fair Projects](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/grade-35.html): Easy last-minute science fair projects: Grades 3–5.
+- [Grades 6–8 Science Fair Projects](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/grade-68.html): Easy last-minute science fair projects: Grades 6–8.
+- [Grades 9–12 Science Fair Projects](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/grade-912.html): Easy last-minute science fair projects: Grades 9–12.
+- [Grades K–2 Science Fair Projects](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/grade-k2.html): Easy last-minute science fair projects: Grades K–2.
+- [5 Minutes Science Fair Projects](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/time-5min.html): Easy last-minute science fair projects: 5 Minutes.
+- [1 Hour Science Fair Projects](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/time-1hour.html): Easy last-minute science fair projects: 1 Hour.
+- [Overnight Science Fair Projects](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/time-overnight.html): Easy last-minute science fair projects: Overnight.
+- [Science Fair Supply List](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/supplies.html): Everything you might need for a last-minute science fair project.
+- [How to Lay Out a Tri-Fold Board](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/board-layout.html): The standard science fair tri-fold board layout.
+
+## Optional
+
+- [Full text of every page](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/llms-full.txt): all site content in one plain-text file
