@@ -36,6 +36,7 @@ Every project page has a question, hypothesis, supply list, numbered steps, expl
 - [Overnight Science Fair Projects](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/time-overnight.html): Easy last-minute science fair projects: Overnight.
 - [Science Fair Supply List](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/supplies.html): Everything you might need for a last-minute science fair project.
 - [How to Lay Out a Tri-Fold Board](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/board-layout.html): The standard science fair tri-fold board layout.
+- [How to Write a Science Fair Hypothesis](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/how-to-write-a-hypothesis.html): How to write a science fair hypothesis with the If, then, because pattern, with examples and a 5-point checklist.
 
 ## Optional
 

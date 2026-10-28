@@ -1338,3 +1338,48 @@ Tip: Print headings in large letters, and check your teacher's rubric first. Req
 Free: 5 One-Night Science Fair ProjectsA printable kit with materials lists, data tables and a board layout. Science fair tomorrow? We've got you.
 Get the free 5 One-Night Projects kit
 Also free: the Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
+
+---
+
+URL: https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/how-to-write-a-hypothesis.html
+
+# How to Write a Science Fair Hypothesis
+Pattern: If I change ___, then ___ will ___, because ___.
+
+### Independent variable
+The one thing you change on purpose.
+
+### Dependent variable
+What you measure.
+
+### Controlled variables
+Everything you keep the same.
+
+## Examples
+
+- If I add more paper clips to a paper helicopter, then it will fall faster, because the extra weight pulls it down harder than the spinning blades can slow it. (project)
+- If I fold the paper like a fan, then it will hold more coins than flat paper, because the folds make the paper harder to bend. (project)
+- If I sprinkle salt on an ice cube, then it will melt faster than an ice cube with sugar or sand, because salt lowers the temperature at which ice can stay frozen. (project)
+
+## 5-point checklist
+
+- Can you test it with the supplies you have?
+- Does it name one thing you change?
+- Does it name one thing you measure?
+- Does it say which way you expect the result to go?
+- Does it give a reason?
+Print the free Hypothesis & Results Worksheet, then put your hypothesis right under your question on the left panel of your board.
+
+## Common questions
+
+### How do you write a science fair hypothesis?
+Use the If, then, because pattern: If I change the independent variable, then the dependent variable will increase, decrease or change, because of a reason from your research.
+
+### What is the difference between independent and dependent variables?
+The independent variable is the one thing you change on purpose. The dependent variable is what you measure. Controlled variables are everything you keep the same.
+
+### What if my hypothesis is wrong?
+That is fine. Say your results did not support your hypothesis, explain why, and say what you would test next. Scientists say supported or not supported, not proven.
+Free: 5 One-Night Science Fair ProjectsA printable kit with materials lists, data tables and a board layout. Science fair tomorrow? We've got you.
+Get the free 5 One-Night Projects kit
+Also free: the Night-Before Checklist, Hypothesis & Results Worksheet and Tri-Fold Board Template.
