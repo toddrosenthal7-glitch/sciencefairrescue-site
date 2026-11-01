@@ -22,7 +22,7 @@ Every project page has a question, hypothesis, supply list, numbered steps, expl
 - [The Naked Egg: Vinegar Dissolves the Shell](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/naked-egg.html): Soak an egg in vinegar and the shell disappears, leaving a bouncy egg.
 - [Skittles Rainbow: Does Water Temperature Matter?](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/skittles-rainbow.html): Candy color spreads in water. Test warm vs. cold.
 - [Liquid Density Tower](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/density-tower.html): Stack kitchen liquids in colorful layers that don't mix.
-- [Which Paper Towel Brand Absorbs the Most?](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/paper-towel-test.html): A fair test of paper towel brands with just a cup of water.
+- [Which Paper Towel Brand Absorbs the Most?](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/paper-towel-test.html): A fair test of paper towel brands with 100 mL of water and same-size squares.
 - [What Melts Ice Fastest: Salt, Sugar, or Sand?](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/what-melts-ice-fastest.html): Sprinkle three kitchen items on ice cubes and race them.
 - [Colored Celery: How Plants Drink Water](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/celery-color.html): Celery stalks pull colored water up to their leaves.
 - [Paper Airplane Design: Which Flies Farthest?](https://toddrosenthal7-glitch.github.io/sciencefairrescue-site/projects/paper-airplane.html): Fold three designs, throw each the same way, and measure.
